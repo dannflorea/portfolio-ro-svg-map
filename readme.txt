@@ -1,4 +1,4 @@
-=== Interactive Portfolio Map ===
+=== WizeWP Portfolio Romania Map ===
 Contributors: danielflorea, wizewp
 Tags: portfolio, map, Romania, filter, ajax, elementor, shortcode
 Requires at least: 5.8
@@ -12,7 +12,7 @@ Display an elegant portfolio with filters by category and interactive SVG map of
 
 == Description ==
 
-📍 **Interactive Portfolio Map** is a lightweight, flexible plugin that allows you to showcase WordPress portfolio items filtered by:
+📍 **WizeWP Portfolio Romania Map** is a lightweight, flexible plugin that allows you to showcase WordPress portfolio items filtered by:
 
 - County (via an interactive SVG map of Romania)
 - Custom categories
@@ -92,4 +92,5 @@ First public version.
 == License ==
 
 This plugin is open-source and licensed under GPL v2 or later.
+
 
